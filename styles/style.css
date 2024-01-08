@@ -1,0 +1,48 @@
+
+div .img-new-year{
+    margin-top: 50px;
+}
+.img-new-year h3{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+/* .new-year{
+    margin: 230 344 175 344;
+} */
+.img-new-year h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-size: 900;
+    padding-top: 230;
+}
+.img-new-year{
+    border-radius: 16px;
+    background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ;
+    position: relative;
+    background-image: url('../img/Banner.png');
+    height: 600px;
+    width: 1300px;
+    background-position: center;
+    background-size: cover;
+
+}
+.happy-new-year{
+    /* background-image: url('../img/New\ Year.png'); */
+    /* padding-top: 1070px; */
+    margin-top: 700px;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 800px;
+}
+.off{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+}
