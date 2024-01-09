@@ -1,13 +1,13 @@
 .banner{
-    background: linear-gradient(180deg, #010002 0%, rgba(7, 2, 17, 0.00) 100%);
     border-radius: 16px;
     background-image: url('../img/Banner.png');
+    background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     background-position: center;
     height: 600px;
     width: 1200px;
     margin-top: 50px;
-    margin-right: 100px;
-   margin-left: 140px;
+    margin-right: 140px;
+    margin-left: 140px;
 }
 #happy-new-year{
     color: #FFF;
@@ -15,7 +15,7 @@
     font-family: Merriweather;
     font-size: 32px;
     font-weight: 400;
-    padding-top: 60px;
+    margin-top: 80px;
 }
 #new-year-party{
     color: #FFF;
@@ -87,4 +87,28 @@
     font-weight: 700;
     text-transform: uppercase;
     padding-left: 160px;
+    margin: 0;
+}
+.midnight{
+    display: flex;
+}
+.image{
+    
+}
+#footer-section{
+    background: #070211;
+    width: 1350px;
+    height: 500px;
+}
+.beach{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+}
+.xyz{
+    display: flex;
+    justify-content: center;
 }
